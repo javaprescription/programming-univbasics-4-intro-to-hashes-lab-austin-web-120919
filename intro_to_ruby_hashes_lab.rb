@@ -5,8 +5,8 @@ end
 
 def my_hash
   hash = {
-    :john => "lennon"
-    :paul => "mccartney"
+    :one => 1
+    :two => 1
   }
   hash
 end
