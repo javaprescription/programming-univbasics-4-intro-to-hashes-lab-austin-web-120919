@@ -6,7 +6,7 @@ end
 def my_hash
   hash = {
     :one => 1
-    :two => 1
+    :two => 2
   }
   hash
 end
